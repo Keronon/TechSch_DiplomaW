@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+  AnimationComponent.cpp
+  AttributeComponent.cpp
+  BoardKey.cpp
+  CharacterTab.cpp
+  DefaultEditorMode.cpp
+  EditorMode.cpp
+  Enemy.cpp
+  EnemyEditorMode.cpp
+  EnemySpawnerTile.cpp
+  EnemySystem.cpp
+  GraphicsSettings.cpp
+  Gui.cpp
+  EditorState.cpp
+  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  HitboxComponent.cpp
+  Inventory.cpp
+  Item.cpp
+  main.cpp
+  Компиляция...
+  MainMenuState.cpp
+  MovementComponent.cpp
+  PauseMenu.cpp
+  PlayerGUI.cpp
+  PlayerGUITabs.cpp
+  Rat.cpp
+  RegularTile.cpp
+  Spikes.cpp
+  Player.cpp
+  SettingsState.cpp
+  State.cpp
+  Tab.cpp
+  TextTagSystem.cpp
+  Tile.cpp
+  TileMap.cpp
+  Создание кода
+  All 2436 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Volundarhus.vcxproj -> D:\.PrivateOwnership\___Учебное___\Значащие работы и файлы\Диплом\Мой диплом и отчёты\Volundarhus (Project)\Release\Volundarhus.exe
